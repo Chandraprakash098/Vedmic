@@ -61,7 +61,7 @@ export default function Home() {
   ];
 
   const stats = [
-    { number: "500+", label: "Projects Completed", icon: "📊", color: "from-emerald-500 to-teal-500" },
+    { number: "50+", label: "Projects Completed", icon: "📊", color: "from-emerald-500 to-teal-500" },
     { number: "100+", label: "Happy Clients", icon: "😊", color: "from-violet-500 to-purple-500" },
     { number: "5+", label: "Years Experience", icon: "🏆", color: "from-orange-500 to-red-500" },
     { number: "24/7", label: "Support Available", icon: "🚀", color: "from-pink-500 to-rose-500" }
