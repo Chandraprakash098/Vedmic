@@ -68,7 +68,7 @@ export default function Header() {
                   />
                   <div className="absolute inset-0 rounded-2xl bg-gradient-to-br from-orange-400 to-red-500 opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
                 </div>
-                <div className="hidden sm:block">
+                <div className="">
                   <h1 className="text-xl lg:text-2xl font-bold bg-gradient-to-r bg-black bg-clip-text text-transparent">
                     Vedamic
                   </h1>
