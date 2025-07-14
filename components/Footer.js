@@ -137,8 +137,8 @@ export default function Footer() {
                 </div>
                 <div>
                   <p className="text-gray-300 leading-relaxed">
-                    Aurangabad<br />
-                    Bihar
+                    Krishna Mahto, Anehha, Anchha, Aurangabad, Daudnagar<br />
+                    Bihar, India, 824143
                   </p>
                 </div>
               </div>
@@ -160,8 +160,8 @@ export default function Footer() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                   </svg>
                 </div>
-                <a href="tel:+1234567890" className="text-gray-300 hover:text-orange-400 transition-all duration-300">
-                  +1 (234) 567-8900
+                <a href="tel:+91 7004262704" className="text-gray-300 hover:text-orange-400 transition-all duration-300">
+                  +91 7004262704
                 </a>
               </div>
             </div>
@@ -191,14 +191,14 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-6">
               <p className="text-gray-400 text-sm">
-                &copy; {new Date().getFullYear()} Vedamic Startup. All rights reserved.
+                &copy; {new Date().getFullYear()} Vedamic Private Limited. All rights reserved.
               </p>
               <div className="flex items-center space-x-4 text-sm">
                 <Link href="/privacy" className="text-gray-400 hover:text-orange-400 transition-colors duration-300">
                   Privacy Policy
                 </Link>
                 <span className="text-gray-600">•</span>
-                <Link href="/terms" className="text-gray-400 hover:text-orange-400 transition-colors duration-300">
+                <Link href="/termservice" className="text-gray-400 hover:text-orange-400 transition-colors duration-300">
                   Terms of Service
                 </Link>
               </div>

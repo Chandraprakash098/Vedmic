@@ -92,7 +92,7 @@ export default function ContactPage() {
           {/* Stats Section */}
           <div className="grid grid-cols-2 gap-4 lg:gap-6 pt-6 lg:pt-8">
             <div className="text-center p-4 lg:p-6 rounded-xl lg:rounded-2xl bg-gradient-to-br from-purple-500/20 to-blue-500/20 border border-purple-500/30 backdrop-blur-sm">
-              <div className="text-2xl lg:text-3xl font-bold text-white mb-1 lg:mb-2">500+</div>
+              <div className="text-2xl lg:text-3xl font-bold text-white mb-1 lg:mb-2">50+</div>
               <div className="text-purple-300 text-xs lg:text-sm">Projects Delivered</div>
             </div>
             <div className="text-center p-4 lg:p-6 rounded-xl lg:rounded-2xl bg-gradient-to-br from-blue-500/20 to-indigo-500/20 border border-blue-500/30 backdrop-blur-sm">
@@ -103,7 +103,7 @@ export default function ContactPage() {
 
           <div className="pt-6 lg:pt-8">
             <p className="text-xs sm:text-sm text-gray-400">
-              © {new Date().getFullYear()} YourSoftwareCo. Crafting digital excellence.
+              © {new Date().getFullYear()} Vedamic PVT LTD. Crafting digital excellence.
             </p>
           </div>
         </div>

@@ -63,7 +63,7 @@ export default function Home() {
   const stats = [
     { number: "50+", label: "Projects Completed", icon: "📊", color: "from-emerald-500 to-teal-500" },
     { number: "100+", label: "Happy Clients", icon: "😊", color: "from-violet-500 to-purple-500" },
-    { number: "5+", label: "Years Experience", icon: "🏆", color: "from-orange-500 to-red-500" },
+    { number: "2+", label: "Years Experience", icon: "🏆", color: "from-orange-500 to-red-500" },
     { number: "24/7", label: "Support Available", icon: "🚀", color: "from-pink-500 to-rose-500" }
   ];
 
@@ -122,7 +122,7 @@ export default function Home() {
                   </svg>
                   <div className="absolute inset-0 bg-gradient-to-r from-amber-400 to-orange-500 rounded-full opacity-0 group-hover:opacity-30 transition-opacity duration-300"></div>
                 </Link>
-                <Link href="/portfolio" className="group inline-flex items-center px-10 py-5 border-2 border-amber-300 text-amber-100 font-bold text-lg rounded-full hover:bg-amber-500 hover:text-white hover:border-amber-500 transition-all duration-300 backdrop-blur-sm">
+                <Link href="/" className="group inline-flex items-center px-10 py-5 border-2 border-amber-300 text-amber-100 font-bold text-lg rounded-full hover:bg-amber-500 hover:text-white hover:border-amber-500 transition-all duration-300 backdrop-blur-sm">
                   View Our Work
                   <svg className="w-6 h-6 ml-3 group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
